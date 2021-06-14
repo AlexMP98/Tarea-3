@@ -23,6 +23,7 @@ Capítulo 5
 ![EjerC5 1-3](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejer%201-3%20C5.png)
 ![EjerC5 5](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejer%205%20C5.png)
 ![EjerC5 7](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejer%207%20C5.png)
+
 ![EjerC5 9](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejer%209%20C5.png)
 ![EjerC5 11](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejer%2011%20C5.png)
 
