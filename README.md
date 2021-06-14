@@ -11,6 +11,9 @@ _Objetivos Específicos_
 
 Capítulo 5
 
+![Mapa Cap 5-5.5](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Fun.Prog%20Mapa%20cap%205-5.5.jpg)
+
+
 Capítulo 6
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
