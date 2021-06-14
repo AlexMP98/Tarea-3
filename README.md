@@ -14,7 +14,9 @@ Capítulo 5
 ![Mapa Cap 5-5.5](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Fun.Prog%20Mapa%20cap%205-5.5.jpg)
 
 
-Capítulo 6
+Capítulo 6      
+![Mapa Cap 6_1](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Cap6_1.jpg)     
+![Mapa Cap 6_2](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Cap6_2.png)    
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -39,6 +41,21 @@ Capítulo 5
 
 
 Capítulo 6
+
+
+![EjerC6 21-23](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/21-23.png)    
+![EjerC6 25](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/25.png)     
+![EjerC6 27-29](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/27-29.png)      
+![EjerC6 31](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/31.png)      
+![EjerC6 33](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/33.png)     
+![EjerC6 35](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/35.png)     
+![EjerC6 37](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/37.png)     
+![EjerC6 39](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/39.png)      
+![EjerC6 41-43](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/41-43.png) 
+![EjerC6 45](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/45.png) 
+![EjerC6 47](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/47.png) 
+
+
 
 **4. VIDEO**
 
