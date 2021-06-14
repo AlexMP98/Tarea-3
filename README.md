@@ -46,3 +46,5 @@ Capítulo 6
 **5.CONCLUSIONES**
 
 **6.BIBLIOGRAFÍA**
+
+H. Robbins, A. y Wilhem C. Miller. (2008). Análisis de circuitos: teoría y prática,Cuarta Edición. Ciudad de México: CENGAGE Learning.
