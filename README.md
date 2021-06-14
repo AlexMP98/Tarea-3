@@ -3,9 +3,13 @@
 ## NRC : 5416
 **1.OBJETIVOS**
 
-_Objetivo General_
+_Objetivo General_    
+* Entender las bases y conceptos sobre los circuitos en serie y los circuitos en paralelo con el fin de tener claro como funcionan estos tipos de circuitos.    
 
-_Objetivos Específicos_
+_Objetivos Específicos_     
+* Analizar la teoría y ejercicios planteados en los temas y subtemas de cada capitulo.   
+* Realizar un resumen mediante organizadores graficas con el fin de facilitar la comprensión de los temas planteados en cada capitulo.   
+* Comprobar la teoría de los capítulos mediante la resolución de los ejercicios planteados-
 
 **2. MARCO TEÓRICO**
 
@@ -60,7 +64,10 @@ Capítulo 6
 **4. VIDEO**
 
 
-**5.CONCLUSIONES**
+**5.CONCLUSIONES**    
+* Se concluye que los circuitos en serie son totalmente distintos a los circuitos en paralelo, ya que en los circuitos en serie existe una intensidad constante en cada componente y el voltaje se divide entre ellos mientras que en los circuitos en paralelo la intensidad de corriente es la que se divide y el voltaje es el que se mantiene constante en cada componente.    
+* Se determina que no es correcto colocar dos fuentes de voltaje de diferente potencial en paralelo, ya que esto puede producir una corriente muy grande y con esto se pueden quemar los componentes que se encuentren en el circuito.   
+* Las leyes de Kirchhoff tanto como la de voltaje como la de corriente, son importantes al momento que se va a realizar un análisis de los circuitos(paralelos,series,etc) ya que facilitan a una mejor comprensión de que sucede dentro de cada circuito, ya sea en cada componente,nodo,rama,etc.
 
 **6.BIBLIOGRAFÍA**
 
