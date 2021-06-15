@@ -46,21 +46,37 @@ Capítulo 5
 ![EjerC5 27](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejer%2027%20C5.png)
 
 ![EjerC5 1](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-1.PNG)
+
 ![EjerC5 2](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-2.PNG)
+
 ![EjerC5 3](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-3.PNG)
+
 ![EjerC5 4](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-4.PNG)
+
 ![EjerC5 5](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-5.PNG)
+
 ![EjerC5 6](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-6.PNG)
+
 ![EjerC5 7](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-7.PNG)
+
 ![EjerC5 8](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-8.PNG)
+
 ![EjerC5 9](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-9.PNG)
+
 ![EjerC5 10](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-10.PNG)
+
 ![EjerC5 11](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-11.PNG)
+
 ![EjerC5 12](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-12.PNG)
+
 ![EjerC5 13](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-13.PNG)
+
 ![EjerC5 14](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-14.PNG)
+
 ![EjerC5 15](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-15.PNG)
+
 ![EjerC5 16](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-16.PNG)
+
 ![EjerC5 17](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Ejercicio%203-17.PNG)
 
 
