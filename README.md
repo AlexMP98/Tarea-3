@@ -16,7 +16,9 @@ _Objetivos Específicos_
 Capítulo 5
 
 ![Mapa Cap 5-5.5](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Fun.Prog%20Mapa%20cap%205-5.5.jpg)
-
+![Marco 1](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Marco%20teorico%203-1.PNG)
+![Marco 2](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Marco%20teorico%203-2.PNG)
+![Marco 3](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Marco%20teorico%203-3.PNG)
 
 Capítulo 6      
 ![Mapa Cap 6_1](https://github.com/AlexMP98/Tarea-3/blob/main/Imagenes/Cap6_1.jpg)     
